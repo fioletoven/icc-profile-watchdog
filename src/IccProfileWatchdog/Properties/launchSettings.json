@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IccProfileWatchdog": {
+      "commandName": "Project",
+      "commandLineArgs": "--debug"
+    }
+  }
+}
