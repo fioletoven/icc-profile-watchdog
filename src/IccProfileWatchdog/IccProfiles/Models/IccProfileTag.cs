@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿// Portions of this file are derived from Melville.PDF by John Melville Licensed under the MIT License.
+
 using System.Text;
 
 namespace IccProfileWatchdog.IccProfiles.Models;
@@ -6,7 +7,6 @@ namespace IccProfileWatchdog.IccProfiles.Models;
 /// <summary>
 /// Represents a single tag in an ICC profile.
 /// </summary>
-[DebuggerDisplay("Profile Tag {TagName}")]
 public class IccProfileTag
 {
     /// <summary>

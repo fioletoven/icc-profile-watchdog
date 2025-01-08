@@ -14,6 +14,10 @@ Unfortunately Windows handles ICC profiles badly (it can reset them for any reas
 
 The tool resides in the taskbar notification area as a tray icon and checks every second (using the Windows API) whether the gamma ramp from the ICC profile is still applied to the graphics card, if not, it reapplies it. The ICC profile can be set in the display settings using the Windows UI (the watchdog is aware of different displays with their own settings).
 
+## Acknowledgements
+
+This project includes ICC profile parser code derived from [Melville.PDF](https://github.com/DrJohnMelville/Pdf) by John Melville, licensed under the MIT License.
+
 ## License
 
 [MIT](./LICENSE)

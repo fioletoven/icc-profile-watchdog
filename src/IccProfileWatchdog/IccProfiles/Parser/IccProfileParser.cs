@@ -1,4 +1,6 @@
-﻿using IccProfileWatchdog.IccProfiles.Extensions;
+﻿// Portions of this file are derived from Melville.PDF by John Melville Licensed under the MIT License.
+
+using IccProfileWatchdog.IccProfiles.Extensions;
 using IccProfileWatchdog.IccProfiles.Models;
 using IccProfileWatchdog.IccProfiles.Parser.ByteSource;
 using System.Buffers;

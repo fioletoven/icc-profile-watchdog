@@ -1,4 +1,6 @@
-﻿namespace IccProfileWatchdog.IccProfiles.Parser.ByteSource;
+﻿// Portions of this file are derived from Melville.PDF by John Melville Licensed under the MIT License.
+
+namespace IccProfileWatchdog.IccProfiles.Parser.ByteSource;
 
 /// <summary>
 /// Implements an extension method to advance an IByteSource to a new forward position.

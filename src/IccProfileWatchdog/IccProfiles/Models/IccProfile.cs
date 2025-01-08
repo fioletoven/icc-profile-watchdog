@@ -1,4 +1,6 @@
-﻿namespace IccProfileWatchdog.IccProfiles.Models;
+﻿// Portions of this file are derived from Melville.PDF by John Melville Licensed under the MIT License.
+
+namespace IccProfileWatchdog.IccProfiles.Models;
 
 /// <summary>
 /// Represents a parsed ICC profile.

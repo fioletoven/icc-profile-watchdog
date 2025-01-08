@@ -1,4 +1,6 @@
-﻿using System.Buffers;
+﻿// Portions of this file are derived from Melville.PDF by John Melville Licensed under the MIT License.
+
+using System.Buffers;
 
 namespace IccProfileWatchdog.IccProfiles.Extensions;
 
