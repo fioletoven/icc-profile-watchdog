@@ -4,6 +4,8 @@ ICC Profile Watchdog is a small project written specifically for my ThinkPad's s
 
 It is a Windows Forms application targeting .NET 8.0 written for Windows 11. It is a replacement for the [DisplayCAL Profile Loader](https://displaycal.net) which is no longer developed and uses an old version of Python.
 
+![ICC Profile Watchdog screenshot](assets/icc-profile-watchdog.png?raw=true "ICC Profile Watchdog")
+
 ## Reasoning
 
 Since the laptop I have has a factory miscalibrated screen (it comes out that this is a common problem in ThinkPads, or perhaps not so much a problem as a desirable feature by customers, according to support), I need an ICC profile for it.
